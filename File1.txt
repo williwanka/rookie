@@ -1,3 +1,4 @@
 first file
 removed bad edit
-its soft edit
+its <conflict space> soft edit
+
